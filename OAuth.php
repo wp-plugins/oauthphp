@@ -3,7 +3,7 @@
 Plugin Name: OAuth.php
 Plugin URI: http://oauth.googlecode.com/svn/code/php/OAuth.php
 Description: OAuth.php by Andy Smith.
-Version: 1.0
+Version: 1.1
 Author: kowack
 Author URI: http://www.kowack.info/
 */
