@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Vkontakte API
+Plugin Name: OAuth.php
 Plugin URI: http://oauth.googlecode.com/svn/code/php/OAuth.php
 Description: OAuth.php by Andy Smith.
 Version: 1.0
